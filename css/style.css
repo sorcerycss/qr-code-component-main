@@ -55,8 +55,7 @@ img {
   /* letter-spacing: 0; */
   color: #1f314f;
   margin: 0;
-  margin-top: 24px;
-  margin-bottom: 16px;
+  margin: 1.5em 0 1em;
 }
 
 .qr-text {
